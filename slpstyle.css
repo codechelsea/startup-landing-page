@@ -1,0 +1,50 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+  font-family: 'Montserrat', sans-serif;
+  background: url(slpheader.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1 {
+  font-size: 3rem;
+  color: #E2DBDB;
+  text-transform: uppercase;
+}
+
+hr {
+    margin: 20px auto;
+    color: #0d6efd;
+    border: 3px solid #0d6efd;
+    max-width: 65px;
+    opacity: 1;  
+}
+
+.buffer {
+  height: 7rem;
+}
+
+.btn {
+  font-weight: 700;
+  border-radius: 300px; /*Make buttom more circular*/
+  text-transform: uppercase;
+}
+
+.btn-primary {
+  background-color: #0d6efd;
+  border-color: #0d6efd;
+}
+
+.btn-primary:hover {
+  background-color: ##0d6efd;
+  border-color: ##0d6efd;
+  border-width: 4px;
+}
+
+.btn-xl {
+  padding: 1rem 2rem; /*1 on the sides and 2 top and bottom*/
+}
