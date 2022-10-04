@@ -20,6 +20,7 @@ h1 {
 hr {
     margin: 20px auto;
     color: #0d6efd;
+    background-color: #0d6efd;
     border: 3px solid #0d6efd;
     max-width: 65px;
     opacity: 1;  
